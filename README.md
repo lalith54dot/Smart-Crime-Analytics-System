@@ -1,17 +1,17 @@
 # Smart-Crime-Analytics-System(SEAS)
 
-##Project Description
+## Project Description
 
 
 
 This project presents a data-driven study of crime patterns across various Indian states over a decade (2015–2025). The dataset is divided into two segments for comparative analysis:
 
-*Phase 1: 2015–2020
-*Phase 2: 2020–2025
+ Phase 1: 2015–2020
+ Phase 2: 2020–2025
 
 Using Python libraries such as Pandas, NumPy, and Matplotlib, the project focuses on extracting meaningful insights from crime data. The analysis emphasizes identifying temporal trends, regional variations, and shifts in crime categories. The goal is to support smarter decision-making in law enforcement through data visualization and statistical evaluation.
 
-##Core Analyses Conducted
+## Core Analyses Conducted
 1. High-Risk States Identification (Average Crime Rate)
 Determined the states with the highest average crime counts in both phases to identify consistently vulnerable regions.
 2. Annual Crime Trend Evaluation
@@ -35,6 +35,6 @@ Computed the relative increase or decrease in crime for each state between the t
 11. Multi-dimensional Crime Visualization
 Created combined visual representations to analyze crime based on both state and crime type.
 
-##Conclusion
+## Conclusion
 
 This project delivers an analytical overview of crime dynamics across Indian states over a ten-year period. By applying data analysis techniques and visualization tools in Python, it uncovers key insights such as high-risk regions, evolving crime patterns, and changes in crime categories. The comparative study between two time periods helps in understanding progress as well as emerging challenges, making it useful for strategic planning and smarter policing initiatives.
